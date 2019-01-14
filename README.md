@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Redux
 - Material-ui
 
+![screen](https://raw.githubusercontent.com/sphingu/calc/master/public/screen.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
