@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+.box {
+  margin: 20px;
+  padding: 20px;
+  max-width: 250px;
+  display: inline-block;
+}
+.output {
+  height: 50px;
+  padding: 5px;
+  margin-bottom: 10px;
+  background-color: black !important;
+  overflow: hidden;
+}
+.output label {
+  color: white;
+  float: right;
+  font-size: 35px;
+  text-align: right;
+}
+.App .btn {
+  margin: 5px;
+  min-width: 40px !important;
+}
